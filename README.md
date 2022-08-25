@@ -16,10 +16,16 @@ If you like working on hard problems at the intersection of creativity and techn
 
 [Don't ever, ever, ever click this.](https://hotpot.ai/hotpotcha)
 
-### Acknowledgements
-
+## Acknowledgements
+* [Imagen](https://imagen.research.google/)
+* [Google Brain](https://research.google/teams/brain/)
 * [Dall-E Mini](https://github.com/borisdayma/dalle-mini)
 * [Lucidrains](https://github.com/lucidrains/imagen-pytorch)
 * [AssemblyAI](https://github.com/AssemblyAI-Examples/MinImagen)
 * [The incredible Katherine Crowson](https://github.com/crowsonkb)
 * [Stability.ai](https://stability.ai/)
+* [Oracle Cloud](https://www.oracle.com/cloud/?s=hotpot-ai) for being surprisingly good and startup-friendly
+
+## Anti-Acknowledgements
+* [Azure](https://[imagen.research.google](https://azure.microsoft.com/) for being the worst of the cloud platforms
+* [Google Cloud Platform](https://cloud.google.com/gcp) for having All-Star potential yet performing like a backup
