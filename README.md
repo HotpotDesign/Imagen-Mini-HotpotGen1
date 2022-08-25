@@ -13,4 +13,4 @@ Our goal is to publicly HotpotGen1 by September 20, 2022.
 
 If working on hard problems at the intersection of creativity and technology excites you, we are hiring in multiple areas: ML, design, and web development. Details: hotpot.ai/jobs.
 
-[Don't ever, ever, ever click this.][https://hotpot.ai/hotpocha]
+[Don't ever, ever, ever click this.](https://hotpot.ai/hotpocha)
