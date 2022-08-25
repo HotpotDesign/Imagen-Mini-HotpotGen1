@@ -27,5 +27,5 @@ If you like working on hard problems at the intersection of creativity and techn
 * [Oracle Cloud](https://www.oracle.com/cloud/?s=hotpot-ai) for being surprisingly good and startup-friendly
 
 ## Anti-Acknowledgements
-* [Azure](https://[imagen.research.google](https://azure.microsoft.com/) for being the worst of the cloud platforms
-* [Google Cloud Platform](https://cloud.google.com/gcp) for having All-Star potential yet performing like a backup
+* [Azure](https://azure.microsoft.com/) for being the worst of the cloud platforms, for being so bad we wish for [this Microsoft](https://www.youtube.com/watch?v=ojP0BO6H4Qc)
+* [Google Cloud Platform](https://cloud.google.com/gcp) for looking [like Steph Curry](https://www.youtube.com/watch?v=gSGzrgq_9HM) but playing [like this](https://youtu.be/jp0Lbkr7FMo?t=45) and [this](https://hotpot.ai/hotpotcha)
