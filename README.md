@@ -17,7 +17,7 @@ If you like working on hard problems at the intersection of creativity and techn
 [Don't ever, ever, ever click this.](https://hotpot.ai/hotpotcha)
 
 ## Fine-Tuning
-We often receive fine-tuning requests for our other AI models. If you want HotpotGen1 fine-tuned on a specific image set, please contact us.
+We often fine-tune AI models for API and enterprise clients. To fine-tune HotpotGen1 on specific images, please contact us.
 
 ## Acknowledgements
 * [Imagen](https://imagen.research.google/)
