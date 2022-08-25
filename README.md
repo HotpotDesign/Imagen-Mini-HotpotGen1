@@ -10,6 +10,8 @@ According to Google:
 
 Our goal is to publicly release HotpotGen1 by September 30, 2022.
 
+Follow us at [@HotpotHelper](https://twitter.com/HotpotHelper) for updates.
+
 If you like working on hard problems at the intersection of creativity and technology, we are hiring in multiple areas: ML, design, and web development. Details: [hotpot.ai/jobs](https://hotpot.ai/jobs).
 
 [Don't ever, ever, ever click this.](https://hotpot.ai/hotpotcha)
