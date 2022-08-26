@@ -3,7 +3,9 @@
 ## Overview
 Our mission at [Hotpot.ai](https://hotpot.ai?s=hotpotgen1) is to help the world create.
 
-As part of our research, we are creating HotpotGen1, a basic version of Google Brain's incredible text-to-image diffusion model, [Imagen](https://imagen.research.google/). HotpotGen1 is inspired by Dall-E Mini and will be an open-source, mini version of Imagen -- Imagen-Mini if you will. (Note: we are not affiliated with Google.)
+As part of our research, we are creating HotpotGen1, a basic version of Google Brain's incredible text-to-image diffusion model, [Imagen](https://imagen.research.google/). [Based on the experimental results](https://arxiv.org/abs/2205.11487), Imagen is the best image generator as of summer 2022, surpassing Dall-E 2 and others in terms of quality and image-text alignment.
+
+HotpotGen1 is inspired by Dall-E Mini and will be an open-source, mini version of Imagen -- Imagen-Mini if you will. (Note: we are not affiliated with Google.)
 
 According to Google:
 > Imagen builds on the power of large transformer language models in understanding text and hinges on the strength of diffusion models in high-fidelity image generation. Our key discovery is that generic large language models (e.g. T5), pretrained on text-only corpora, are surprisingly effective at encoding text for image synthesis: increasing the size of the language model in Imagen boosts both sample fidelity and image-text alignment much more than increasing the size of the image diffusion model.
