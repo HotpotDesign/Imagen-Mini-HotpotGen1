@@ -1,16 +1,20 @@
+# Imagen Image Generator
+
+*Hotpot.ai and this repo are not affiliated with Google.*
+
+[Imagen](https://imagen.research.google/) is the incredible text-to-image diffusion model from Google Brain. [Based on the experimental results](https://arxiv.org/abs/2205.11487), Imagen is the best image generator as of summer 2022, surpassing Dall-E 2 and others in terms of quality and image-text alignment.
+
+According to Google:
+> Imagen builds on the power of large transformer language models in understanding text and hinges on the strength of diffusion models in high-fidelity image generation. Our key discovery is that generic large language models (e.g. T5), pretrained on text-only corpora, are surprisingly effective at encoding text for image synthesis: increasing the size of the language model in Imagen boosts both sample fidelity and image-text alignment much more than increasing the size of the image diffusion model.
+
 # HotpotGen1
 
 ## Overview
 Our mission at [Hotpot.ai](https://hotpot.ai?s=hotpotgen1) is to help the world create.
 
-As part of our research, we are creating HotpotGen1, a basic version of Google Brain's incredible text-to-image diffusion model, [Imagen](https://imagen.research.google/). [Based on the experimental results](https://arxiv.org/abs/2205.11487), Imagen is the best image generator as of summer 2022, surpassing Dall-E 2 and others in terms of quality and image-text alignment.
+As part of our research, we are creating a simpler version of Imagen called HotpotGen1. HotpotGen1 is inspired by Dall-E Mini and will be an open-source, mini version of Imagen -- Imagen-Mini if you will.
 
-HotpotGen1 is inspired by Dall-E Mini and will be an open-source, mini version of Imagen -- Imagen-Mini if you will. (Note: we are not affiliated with Google.)
-
-According to Google:
-> Imagen builds on the power of large transformer language models in understanding text and hinges on the strength of diffusion models in high-fidelity image generation. Our key discovery is that generic large language models (e.g. T5), pretrained on text-only corpora, are surprisingly effective at encoding text for image synthesis: increasing the size of the language model in Imagen boosts both sample fidelity and image-text alignment much more than increasing the size of the image diffusion model.
-
-Our goal is to publicly release HotpotGen1 by September 30, 2022.
+We will publicly release HotpotGen1 by September 30, 2022.
 
 Follow [@HotpotHelper](https://twitter.com/HotpotHelper) for updates.
 
