@@ -29,10 +29,11 @@ We often fine-tune AI models for API and enterprise clients. To fine-tune Hotpot
 * [Imagen](https://imagen.research.google/)
 * [Google Brain](https://research.google/teams/brain/)
 * [Dall-E Mini](https://github.com/borisdayma/dalle-mini)
+* [The incredible Katherine Crowson](https://github.com/crowsonkb)
+* [Ludwig Maximilian University ML research group](https://github.com/CompVis)
+* [Stability.ai](https://stability.ai/)
 * [Lucidrains](https://github.com/lucidrains/imagen-pytorch)
 * [AssemblyAI](https://github.com/AssemblyAI-Examples/MinImagen)
-* [The incredible Katherine Crowson](https://github.com/crowsonkb)
-* [Stability.ai](https://stability.ai/)
 * [Oracle Cloud](https://www.oracle.com/cloud/?s=hotpot-ai) for being surprisingly good and startup-friendly
 
 ## Anti-Acknowledgements
