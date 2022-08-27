@@ -1,8 +1,8 @@
 # Imagen Image Generator
 
-*Hotpot.ai and this repo are not affiliated with Google.*
+*[Hotpot.ai](https://hotpot.ai) and this repo are not affiliated with Google.*
 
-[Imagen](https://imagen.research.google/) is the incredible text-to-image diffusion model from Google Brain. [Based on the experimental results](https://arxiv.org/abs/2205.11487), Imagen is the best image generator as of summer 2022, surpassing Dall-E 2 and others in terms of quality and image-text alignment.
+[Imagen](https://imagen.research.google/) is the incredible text-to-image diffusion model from Google Brain. [Based on experimental results](https://arxiv.org/abs/2205.11487), Imagen is the best image generator as of summer 2022, surpassing Dall-E 2 and others in terms of quality and image-text alignment. (Please comment if you find evidence that Google's claims are misleading or inaccurate.)
 
 According to Google:
 > Imagen builds on the power of large transformer language models in understanding text and hinges on the strength of diffusion models in high-fidelity image generation. Our key discovery is that generic large language models (e.g. T5), pretrained on text-only corpora, are surprisingly effective at encoding text for image synthesis: increasing the size of the language model in Imagen boosts both sample fidelity and image-text alignment much more than increasing the size of the image diffusion model.
