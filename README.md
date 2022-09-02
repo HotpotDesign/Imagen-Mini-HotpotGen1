@@ -18,9 +18,12 @@ We will publicly release HotpotGen1 by September 30, 2022.
 
 Follow [@HotpotHelper](https://twitter.com/HotpotHelper) for updates.
 
-If you like working on hard problems at the intersection of creativity and technology, we are hiring in multiple areas: ML, design, and web development. Details: [hotpot.ai/jobs](https://hotpot.ai/jobs).
-
 [Don't ever, ever, ever click this.](https://hotpot.ai/hotpotcha)
+
+## Jobs
+If you like working on hard problems at the intersection of creativity and technology, we are hiring in multiple areas: ML, design, and web development. 
+Researchers: we're especially interested in NLP researchers who want to jump into vision. Please share the 5 most recent papers you read and one fundamental assumption you think may be wrong (e.g., diffusion models require Gaussian noise). No worries if don't have an assumption to challenge. This is why you're joining us -- to discover new methods and expose flawed assumptions.  
+Details: [hotpot.ai/jobs](https://hotpot.ai/jobs).
 
 ## Fine-Tuning
 We often fine-tune AI models for API and enterprise clients. To fine-tune HotpotGen1 on specific images, please contact us.
