@@ -22,7 +22,8 @@ Follow [@HotpotHelper](https://twitter.com/HotpotHelper) for updates.
 
 ## Jobs
 If you like working on hard problems at the intersection of creativity and technology, we are hiring in multiple areas: ML, design, and web development. 
-Researchers: we're especially interested in NLP researchers who want to jump into vision. Please share the 5 most recent papers you read and one fundamental assumption you think may be wrong (e.g., diffusion models require Gaussian noise). No worries if don't have an assumption to challenge. This is why you're joining us -- to discover new methods and expose flawed assumptions.  
+
+Researchers: we're especially interested in NLP researchers who want to jump into vision. Please share the 5 most recent papers you read and one fundamental assumption you think may be wrong (e.g., diffusion models require Gaussian noise). No worries if don't have an assumption to challenge. This is the motivation to join us -- to discover new methods and expose flawed assumptions.  
 Details: [hotpot.ai/jobs](https://hotpot.ai/jobs).
 
 ## Fine-Tuning
